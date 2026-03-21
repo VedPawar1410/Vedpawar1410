@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Ved 👋
 
-I'm a CS Grad from **VIT Vellore** passionate about coding, building and research. My focus is at the intersection of **Full-Stack Development, AI/ML, and Cloud Computing**.
+I'm an SDE at **Stackular** and a CS Grad from **VIT Vellore**, passionate about coding, building and research. My focus is on the intersection of **Full-Stack Development, AI/ML, and Cloud Computing**.
 
 I've had the privilege of interning at **Google Cloud** and **General Motors**.
 
